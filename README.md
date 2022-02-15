@@ -8,7 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.\![Screen Shot 2022-02-15 at 13 43 51](https://user-images.githubusercontent.com/74929484/154055918-bd760536-e387-4fba-a46c-d0981b784fa8.png)
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
